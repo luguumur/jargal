@@ -48,6 +48,39 @@
  18.Footer
  19.Responsive Part
 -------------------------------------------------*/
+/* FontFace */
+@font-face{
+	font-family: 'sd';
+	font-weight: 400;
+	src:url('../../fonts/SF-UI-Display-Regular.otf') format("opentype"),
+	url('../../fonts/SF-UI-Display-Regular.otf') format("opentype")
+}
+@font-face{
+	font-family: 'sd';
+	font-weight: 500;
+	src:url('../../fonts/SF-UI-Display-Medium.otf') format("opentype"),
+	url('../../fonts/SF-UI-Display-Medium.otf') format("opentype")
+}
+@font-face{
+	font-family: 'sd';
+	font-weight: 600;
+	src:url('../../fonts/SF-UI-Display-Semibold.otf') format("opentype"),
+	url('../../fonts/SF-UI-Display-Semibold.otf') format("opentype")
+}
+@font-face{
+	font-family: 'sd';
+	font-weight: 700;
+	src:url('../../fonts/SF-UI-Display-Bold.otf') format("opentype"),
+	url('../../fonts/SF-UI-Display-Bold.otf') format("opentype")
+}
+@font-face{
+	font-family: 'sd';
+	font-weight: 800;
+	src:url('../../fonts/SF-UI-Display-Black.otf') format("opentype"),
+	url('../../fonts/SF-UI-Display-Black.otf') format("opentype")
+}
+
+
 /*-------------------------------------------------------*/
 /* 1. Isotope filtering
 /*-------------------------------------------------------*/
